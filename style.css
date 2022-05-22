@@ -1,0 +1,46 @@
+@media screen and (max-width:1000px) {
+    .navbar-nav{
+        display: none;
+    }
+}
+@media screen and (max-width:700px){
+    .last_card_text{
+        text-align: center;
+    }
+    .last_card_div{
+        width: 300px;
+        
+    }
+    .last_card{
+        max-width: 300px;
+    }
+    .last_image_media{
+        max-height: 200px;
+    }
+}
+.last_card_image{
+    height: 70px;
+}
+.card{
+    width: 400px;
+}
+.last_image{
+    height: 300px;
+}
+.last_div_padding{
+    padding: 0px 50px;
+}
+.btn{
+    background-image: linear-gradient(180deg, #A4BC46, #85A019);
+    padding: 15px 25px;
+}
+.position{
+    position: fixed;
+}
+.social_media{
+    max-width: 40px;
+    padding: 5px 0px;
+}
+.social_media_position{
+    margin-top: 200px;
+}
