@@ -33,6 +33,7 @@
 .btn{
     background-image: linear-gradient(180deg, #A4BC46, #85A019);
     padding: 15px 25px;
+    border: none;
 }
 .position{
     position: fixed;
